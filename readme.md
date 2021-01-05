@@ -7,10 +7,10 @@
 ### Team Information
 
 
-| Name | Email |
-| - | - |
-| Kanika Mittal | mkanika1811@gmail.com |
-| Pradyumn Jain | pradyumn25jain@gmail.com |
+| Name | Email |Profile Link|
+| - | - | - |
+| Kanika Mittal | mkanika1811@gmail.com | [![Website Badge](https://img.shields.io/badge/-kanika.github-teal?style=flat-square&url=https://github.com/kanikamittal1811)](https://github.com/kanikamittal1811)|
+| Pradyumn Jain | pradyumn25jain@gmail.com |[![Website Badge](https://img.shields.io/badge/-pradyumn.github-teal?style=flat-square&url=https://github.com/pradyumnjain)](https://github.com/pradyumnjain) |
 
 ---
 
